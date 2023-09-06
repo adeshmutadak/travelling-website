@@ -1,0 +1,28 @@
+.trips{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+    position: absolute;
+  
+}
+/* .borderColumn{
+    border: 2px rgb(231, 223, 223) solid;
+   border-radius: 10px;
+} */
+.tripsColumn  video{
+    width: 80%;
+    height: 80%;
+    box-shadow: -1px 1px 62px -18px rgba(0,0, 0, 0.19);
+    border-radius: 13px;
+    
+    object-fit: cover;
+}
+.tripsColumn  video:hover{
+    width: 90%;
+    transition: 0.5s;
+}
+.tripsColumn p{
+    font-size: 18px;
+    text-align: center;
+}
