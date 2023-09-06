@@ -10,7 +10,7 @@ const Destination=()=>{
     return (
        <div className="destination">
         <h1>Popular Destinations</h1>
-        <p>Tours Give You Oppuritunity to Know Your Self</p>
+        <p>Tours Give You Opportunity to Know Your Self</p>
         <div className="first-des">
             <div className="des-text">
          <h2>England , London</h2>
